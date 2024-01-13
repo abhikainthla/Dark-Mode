@@ -6,7 +6,6 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: black;
 }
 .container{
     width: 100%;
@@ -20,7 +19,6 @@ body{
 }
 h1{
     font-size: 5rem;
-    color: white;
 }      
 .checkbox{
     height: 60px;
